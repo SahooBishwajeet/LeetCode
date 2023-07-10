@@ -2,6 +2,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|0111|[Minimum Depth of Binary Tree]()|[cpp](Solution_CPP/111_Minimum_Depth_Of_Binary_Tree.cpp)|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|[cpp](Solutions_CPP/137_Single_Number_II.cpp)|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[cpp](Solutions_CPP/209_Minimum_Size_Subarray_Sum.cpp)|
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[cpp](/Solutions_CPP/387_First_Unique_Character_In_A_String.cpp)|
