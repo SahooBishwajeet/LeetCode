@@ -2,6 +2,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|0033|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[cpp](Solutions_CPP/33_Search_In_Rotated_Sorted_Array.cpp)|
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[cpp](Solutions_CPP/50_Pow(x,n).cpp)|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[cpp](Solution_CPP/111_Minimum_Depth_Of_Binary_Tree.cpp)|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|[cpp](Solutions_CPP/137_Single_Number_II.cpp)|
