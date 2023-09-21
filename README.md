@@ -2,7 +2,7 @@
 
 | # | Title | Solution |
 |---| ----- | -------- |
-|0004|[Median Of 2 Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=daily-question&envId=2023-09-21)|[cpp](Solutiobs_CPP/8_Median_Of_2_Sorted_Arrays.cpp)|
+|0004|[Median Of 2 Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=daily-question&envId=2023-09-21)|[cpp](Solutions_CPP/8_Median_Of_2_Sorted_Arrays.cpp)|
 |0033|[Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[cpp](Solutions_CPP/33_Search_In_Rotated_Sorted_Array.cpp)|
 |0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[cpp](Solutions_CPP/50_Pow(x,n).cpp)|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[cpp](Solutions_CPP/63_Unique_Paths_II.cpp)|
