@@ -16,6 +16,7 @@
 |0338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/?envType=daily-question&envId=2023-09-01)|[cpp](Solutions_CPP/338_Counting_Bits.cpp)|
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[cpp](Solutions_CPP/459_Repeated_Substring_Pattern.cpp)|
 |0518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)|[cpp](Solutions_CPP/518_Coin_Change_II.cpp)|
+|0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/)|[cpp](Solutions_CPP/706_Design_HashMap.cpp)|
 |0712|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[cpp](Solutions_CPP/735_Asteroid_Collision.cpp)|
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)|[cpp](Solutions_CPP/859_Buddy_Strings)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)|[cpp](Solutions_CPP/1218_Longest_Arithmetic_Subsequence_Of_Given_Difference.cpp)|
