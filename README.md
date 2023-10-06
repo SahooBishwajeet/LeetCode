@@ -13,8 +13,9 @@
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[cpp](Solutions_CPP/209_Minimum_Size_Subarray_Sum.cpp)|
 |0225|[Implementing Stacks Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[cpp](Solutions_CPP/225_Implementing_Stacks_Using_Queues.cpp)|
 |0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[cpp](Solutions_CPP/229_Majority_Element_II.cpp)|
-|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[cpp](/Solutions_CPP/387_First_Unique_Character_In_A_String.cpp)|
 |0338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/?envType=daily-question&envId=2023-09-01)|[cpp](Solutions_CPP/338_Counting_Bits.cpp)|
+|0343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[cpp](Solutions_CPP/343_Integer_Break.cpp)|
+|0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[cpp](/Solutions_CPP/387_First_Unique_Character_In_A_String.cpp)|
 |0459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[cpp](Solutions_CPP/459_Repeated_Substring_Pattern.cpp)|
 |0518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)|[cpp](Solutions_CPP/518_Coin_Change_II.cpp)|
 |0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/)|[cpp](Solutions_CPP/706_Design_HashMap.cpp)|
