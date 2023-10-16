@@ -9,6 +9,7 @@
 |0086|[Partition List](https://leetcode.com/problems/partition-list/description/)|[cpp](Solutions_CPP/86_Partition_List.cpp)|
 |0088|[Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[cpp](Solutions_CPP/81_Search_in_Rotated_Sorted_Array_II.cpp)|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[cpp](Solution_CPP/111_Minimum_Depth_Of_Binary_Tree.cpp)|
+|0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[cpp](Solutions_CPP/119_Pascal's_Triangle_II.cpp)|
 |0137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|[cpp](Solutions_CPP/137_Single_Number_II.cpp)|
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[cpp](Solutions_CPP/209_Minimum_Size_Subarray_Sum.cpp)|
 |0225|[Implementing Stacks Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[cpp](Solutions_CPP/225_Implementing_Stacks_Using_Queues.cpp)|
