@@ -26,6 +26,7 @@
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)|[cpp](Solutions_CPP/1218_Longest_Arithmetic_Subsequence_Of_Given_Difference.cpp)|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)|[cpp](Solutions_CPP/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
+|1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[cpp](Solutions_CPP/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp)|
 |2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)|[cpp](Solutions_CPP/2024_Maximize_The_Confusion_Of_An_Exam.cpp)|
 |2272|[Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)|[cpp](Solutions_CPP/2272_Substring_With_Largest_Variance.cpp)|
 |2551|[Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)|[cpp](Solutions_CPP/2551_Put_Marbles_In_Bags.cpp)|
