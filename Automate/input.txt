@@ -1,0 +1,12 @@
+https://leetcode.com/problems/<problem-name>/description/
+
+/*
+<Approach Here>
+*/
+
+class Solution {
+public:
+    function_name() {
+        // code here
+    }
+};
