@@ -1,4 +1,5 @@
 .venv
+input_template.txt
 
 ons
 *.so
