@@ -28,6 +28,7 @@
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[cpp](Solutions_CPP/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp)|
 |2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)|[cpp](Solutions_CPP/2024_Maximize_The_Confusion_Of_An_Exam.cpp)|
+|2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp)|
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2181_Merge_Nodes_in_Between_Zeros.cpp)|
 |2272|[Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)|[cpp](Solutions_CPP/2272_Substring_With_Largest_Variance.cpp)|
 |2551|[Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)|[cpp](Solutions_CPP/2551_Put_Marbles_In_Bags.cpp)|

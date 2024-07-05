@@ -7,6 +7,6 @@ https://leetcode.com/problems/<problem-name>/description/
 class Solution {
 public:
     function_name() {
-      // code here
+        // code here
     }
 };
