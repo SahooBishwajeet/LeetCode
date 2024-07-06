@@ -32,4 +32,5 @@
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2181_Merge_Nodes_in_Between_Zeros.cpp)|
 |2272|[Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)|[cpp](Solutions_CPP/2272_Substring_With_Largest_Variance.cpp)|
 |2551|[Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)|[cpp](Solutions_CPP/2551_Put_Marbles_In_Bags.cpp)|
+|2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2645_Pass_the_Pillow.cpp)|
 |2744|[Find Maximum Number Of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[cpp](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.cpp), [c](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.c)|
