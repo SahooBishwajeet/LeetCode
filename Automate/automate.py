@@ -26,8 +26,6 @@ with open("input.txt", "r") as f:
 url, comment, code = extract_from_input(content)
 questionId, title, question, difficulty, example, constraint = scrape_data(url)
 
-fileName = f"../Solutions_CPP/{questionId}_{title.replace(' ', '_')}.cpp"
-
 # Ask a prompt to the user to confirm the scraped questionId and title of the question. If the user press <enter> then proceed else exit the program
 print(f"Question ID: {questionId}\nTitle: {title}")
 if input("Do you want to proceed? (y/n): ") != "y":
@@ -35,6 +33,8 @@ if input("Do you want to proceed? (y/n): ") != "y":
         questionId = input("Enter the question ID: ")
     else:
         exit()
+        
+fileName = f"../Solutions_CPP/{questionId}_{title.replace(' ', '_')}.cpp"
 
 with open(fileName, "w") as f:
     f.write(f"// {questionId} : {title}\n\n")
