@@ -27,6 +27,7 @@
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)|[cpp](Solutions_CPP/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1642_Water_Bottles.cpp)|
+|1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1823_Find_the_Winner_of_the_Circular_Game.cpp)|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[cpp](Solutions_CPP/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp)|
 |2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)|[cpp](Solutions_CPP/2024_Maximize_The_Confusion_Of_An_Exam.cpp)|
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp)|
