@@ -14,6 +14,7 @@
 |0209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[cpp](Solutions_CPP/209_Minimum_Size_Subarray_Sum.cpp)|
 |0225|[Implementing Stacks Using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[cpp](Solutions_CPP/225_Implementing_Stacks_Using_Queues.cpp)|
 |0229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)|[cpp](Solutions_CPP/229_Majority_Element_II.cpp)|
+|0263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[cpp](Solutions_CPP/../Solutions_CPP/263_Ugly_Number.cpp)|
 |0338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/?envType=daily-question&envId=2023-09-01)|[cpp](Solutions_CPP/338_Counting_Bits.cpp)|
 |0343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|[cpp](Solutions_CPP/343_Integer_Break.cpp)|
 |0387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[cpp](/Solutions_CPP/387_First_Unique_Character_In_A_String.cpp)|
