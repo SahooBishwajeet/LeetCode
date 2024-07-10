@@ -28,6 +28,7 @@
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)|[cpp](Solutions_CPP/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1642_Water_Bottles.cpp)|
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1598_Crawler_Log_Folder.cpp)|
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1701_Average_Waiting_Time.cpp)|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1823_Find_the_Winner_of_the_Circular_Game.cpp)|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[cpp](Solutions_CPP/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp)|
