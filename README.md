@@ -24,6 +24,7 @@
 |0712|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[cpp](Solutions_CPP/735_Asteroid_Collision.cpp)|
 |0779|[K-th Symbol In Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|[cpp](Solutions_CPP/779_K-th_Symbol_In_Grammar.cpp)|
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)|[cpp](Solutions_CPP/859_Buddy_Strings)|
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.cpp)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)|[cpp](Solutions_CPP/1218_Longest_Arithmetic_Subsequence_Of_Given_Difference.cpp)|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)|[cpp](Solutions_CPP/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
