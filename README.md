@@ -27,6 +27,7 @@
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/description/)|[cpp](Solutions_CPP/../Solutions_CPP/912_Sort_an_Array.cpp)|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.cpp)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)|[cpp](Solutions_CPP/1218_Longest_Arithmetic_Subsequence_Of_Given_Difference.cpp)|
+|1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp)|
 |1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)|[cpp](Solutions_CPP/1493_Longest_Subarray_of_1's_After_Deleting_One_Element.cpp)|
 |1512|[Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)|[cpp](Solutions_CPP/1512_Number_Of_Good_Pairs.cpp)|
 |1518|[Water Bottles](https://leetcode.com/problems/water-bottles/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1642_Water_Bottles.cpp)|
