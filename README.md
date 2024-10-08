@@ -37,6 +37,7 @@
 |1701|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1701_Average_Waiting_Time.cpp)|
 |1823|[Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1823_Find_the_Winner_of_the_Circular_Game.cpp)|
 |1846|[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[cpp](Solutions_CPP/1846_Maximum_Element_After_Decreasing_and_Rearranging.cpp)|
+|1963|[Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1963_Minimum_Number_of_Swaps_to_Make_the_String_Balanced.cpp)|
 |2024|[Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)|[cpp](Solutions_CPP/2024_Maximize_The_Confusion_Of_An_Exam.cpp)|
 |2045|[Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2045_Second_Minimum_Time_to_Reach_Destination.cpp)|
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2182_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points.cpp)|
