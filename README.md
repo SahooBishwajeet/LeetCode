@@ -26,6 +26,7 @@
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)|[cpp](Solutions_CPP/859_Buddy_Strings)|
 |0885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)|[cpp](Solutions_CPP/../Solutions_CPP/885_Spiral_Matrix_III.cpp)|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/description/)|[cpp](Solutions_CPP/../Solutions_CPP/912_Sort_an_Array.cpp)|
+|0962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)|[cpp](Solutions_CPP/../Solutions_CPP/962_Maximum_Width_Ramp.cpp)|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses.cpp)|
 |1218|[Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/description/)|[cpp](Solutions_CPP/1218_Longest_Arithmetic_Subsequence_Of_Given_Difference.cpp)|
 |1334|[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)|[cpp](Solutions_CPP/../Solutions_CPP/1334_Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.cpp)|
