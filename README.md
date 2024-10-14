@@ -45,6 +45,7 @@
 |2181|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2181_Merge_Nodes_in_Between_Zeros.cpp)|
 |2272|[Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)|[cpp](Solutions_CPP/2272_Substring_With_Largest_Variance.cpp)|
 |2406|[Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2406_Divide_Intervals_Into_Minimum_Number_of_Groups.cpp)|
+|2530|[Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2530_Maximal_Score_After_Applying_K_Operations.cpp)|
 |2551|[Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/description/)|[cpp](Solutions_CPP/2551_Put_Marbles_In_Bags.cpp)|
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2645_Pass_the_Pillow.cpp)|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2696_Minimum_String_Length_After_Removing_Substrings.cpp)|
