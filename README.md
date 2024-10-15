@@ -50,3 +50,4 @@
 |2582|[Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2645_Pass_the_Pillow.cpp)|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2696_Minimum_String_Length_After_Removing_Substrings.cpp)|
 |2744|[Find Maximum Number Of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[cpp](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.cpp), [c](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.c)|
+|2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2938_Separate_Black_and_White_Balls.cpp)|
