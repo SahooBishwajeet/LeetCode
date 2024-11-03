@@ -23,6 +23,7 @@
 |0706|[Design HashMap](https://leetcode.com/problems/design-hashmap/description/)|[cpp](Solutions_CPP/706_Design_HashMap.cpp)|
 |0712|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)|[cpp](Solutions_CPP/735_Asteroid_Collision.cpp)|
 |0779|[K-th Symbol In Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)|[cpp](Solutions_CPP/779_K-th_Symbol_In_Grammar.cpp)|
+|0796|[Rotate String](https://leetcode.com/problems/rotate-string/description/)|[cpp](Solutions_CPP/../Solutions_CPP/796_Rotate_String.cpp)|
 |0859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/)|[cpp](Solutions_CPP/859_Buddy_Strings)|
 |0885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)|[cpp](Solutions_CPP/../Solutions_CPP/885_Spiral_Matrix_III.cpp)|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/description/)|[cpp](Solutions_CPP/../Solutions_CPP/912_Sort_an_Array.cpp)|
