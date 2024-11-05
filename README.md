@@ -56,5 +56,6 @@
 |2641|[Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2641_Cousins_in_Binary_Tree_II.cpp)|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2696_Minimum_String_Length_After_Removing_Substrings.cpp)|
 |2744|[Find Maximum Number Of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[cpp](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.cpp), [c](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.c)|
+|2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp)|
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2938_Separate_Black_and_White_Balls.cpp)|
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[cpp](Solutions_CPP/../Solutions_CPP/3163_String_Compression_III.cpp)|
