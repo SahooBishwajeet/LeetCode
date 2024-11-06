@@ -58,4 +58,5 @@
 |2744|[Find Maximum Number Of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/)|[cpp](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.cpp), [c](Solutions_CPP/2744_Find_Maximum_Number_Of_String_Pairs.c)|
 |2914|[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2914_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.cpp)|
 |2938|[Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)|[cpp](Solutions_CPP/../Solutions_CPP/2938_Separate_Black_and_White_Balls.cpp)|
+|3011|[Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)|[cpp](Solutions_CPP/../Solutions_CPP/3011_Find_if_Array_Can_Be_Sorted.cpp)|
 |3163|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[cpp](Solutions_CPP/../Solutions_CPP/3163_String_Compression_III.cpp)|
